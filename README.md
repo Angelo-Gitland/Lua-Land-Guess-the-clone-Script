@@ -1,1 +1,0 @@
-# Lua-Land-Guess-the-clone-Script
